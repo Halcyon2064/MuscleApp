@@ -1,0 +1,28 @@
+#sizer{
+    height: 100%;
+}
+.chart{
+    margin-top: 2rem;
+}
+.but1{
+    width: 100%;
+}
+.ins1{
+    height: auto;
+    max-width: 100%;
+    
+}
+.h-90{
+    height: 90%;
+}
+.bodall{
+    text-align: center;
+}
+.comp2{
+    color: white;
+    text-align: center;
+}
+#title{
+    margin-top: 1rem;
+    text-align: center;
+}
