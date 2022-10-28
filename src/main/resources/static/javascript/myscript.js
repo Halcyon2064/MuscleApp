@@ -267,7 +267,7 @@ let exerciseArray = [
         name: "Decline press-up",
         body_part: "Chest",
         description: "Place your feet on a bench with your hands planted on the floor in front of you. Lower your body down. Press your body back up to the starting position while squeezing your chest.",
-        image: "/JavaCapstone/Sources/decline-push-up.gif"
+        image: "https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/feetelevatedpushup-1457047025.gif?crop=1xw:1xh;center,top&resize=640:*"
     },
     { 
         id: "2",
